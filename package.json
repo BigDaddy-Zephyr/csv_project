@@ -1,0 +1,14 @@
+{
+  "name": "csv_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csv-node-js.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.4.6",
+    "csv-stringify": "^5.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
